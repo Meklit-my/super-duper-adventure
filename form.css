@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  text-shadow: 5px 5px 5px rgba(255, 0, 0, 0.87),
+    -3px -3px 5px rgba(60, 60, 247, 0.87);
+}
+button {
+  background-color: plum;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid plum;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+#greeting {
+  font-family: sans-serif;
+}
