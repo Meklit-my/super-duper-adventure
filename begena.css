@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT99q-av4efH0IRZT4djGk-6XYBoxv1qrun0w&s");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div {
+  border: 2px solid;
+  height: auto;
+  margin: 20px;
+  margin-right: 90px;
+  margin-left: 90px;
+  text-align: center;
+  color: aliceblue;
+}
+* {
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+}
+a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
